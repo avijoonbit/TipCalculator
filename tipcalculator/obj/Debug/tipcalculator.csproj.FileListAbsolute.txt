@@ -1,0 +1,10 @@
+C:\Users\Avi\source\repos\tipcalculator\tipcalculator\bin\Debug\tipcalculator.exe.config
+C:\Users\Avi\source\repos\tipcalculator\tipcalculator\bin\Debug\tipcalculator.exe
+C:\Users\Avi\source\repos\tipcalculator\tipcalculator\bin\Debug\tipcalculator.pdb
+C:\Users\Avi\source\repos\tipcalculator\tipcalculator\obj\Debug\tipcalculator.csprojAssemblyReference.cache
+C:\Users\Avi\source\repos\tipcalculator\tipcalculator\obj\Debug\tipcalculator.Form1.resources
+C:\Users\Avi\source\repos\tipcalculator\tipcalculator\obj\Debug\tipcalculator.Properties.Resources.resources
+C:\Users\Avi\source\repos\tipcalculator\tipcalculator\obj\Debug\tipcalculator.csproj.GenerateResource.cache
+C:\Users\Avi\source\repos\tipcalculator\tipcalculator\obj\Debug\tipcalculator.csproj.CoreCompileInputs.cache
+C:\Users\Avi\source\repos\tipcalculator\tipcalculator\obj\Debug\tipcalculator.exe
+C:\Users\Avi\source\repos\tipcalculator\tipcalculator\obj\Debug\tipcalculator.pdb
